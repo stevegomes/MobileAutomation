@@ -1,0 +1,11 @@
+#TODO - look into building .apk on the fly
+#:apk: 'YOUR ANDROID APPLICATION PACKAGE'
+#:apk_path: 'PATH TO YOUR ANDROID APK'
+#:android_package: "YOUR APPLICATION'S PACKAGE"
+#:android_activity: "YOUR APPLICATION'S MAIN ACTIVITY"
+#E.G.:
+
+:apk: 'app-QA-debug.apk'
+:apk_path: '/Users/stevangomes/Downloads/app-QA-debug.apk'
+:android_package: 'com.kumandgo.rewards'
+:android_activity: 'com.mobiquityinc.kumandgo.ui.activity.LauncherActivity'
